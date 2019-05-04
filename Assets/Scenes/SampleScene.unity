@@ -850,7 +850,7 @@ MonoBehaviour:
   enemy: {fileID: 1981936440389990412, guid: ab8d1d214f4b64704b742543e5b9b4af, type: 3}
   point: {fileID: 6742129862785313887, guid: 53c9e4a8c612c41278da14fd436743fe, type: 3}
   Life: {fileID: 7204178071634000192, guid: fcd3aa700be8647d4ab15da785a3d6f4, type: 3}
-  spawnRate: 0.8
+  spawnRate: 0.7
 --- !u!4 &1676127652
 Transform:
   m_ObjectHideFlags: 0
